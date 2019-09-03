@@ -1,1 +1,1 @@
-For multiple species sequence extraction.
+For multiple species homologous sequence extraction.
