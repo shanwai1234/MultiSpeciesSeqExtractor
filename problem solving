@@ -1,0 +1,5 @@
+1. the last level folder should not contain any space
+2. Scip should use old version 3.0
+3. shapely should use old version 1.2.19
+4. change '163' line for the output of cns
+5. when trying to use old version Gina use of rice and Sorghum,check that there is no "scaffold" and "Sy" .. containing in faa file, in this case you need to change corresponding names appearing in gff file. 
