@@ -1,0 +1,3 @@
+1. using scripts/gff_to_bed.py to convert downloaded gff and fa files to bed and fasta format and move to corresponding folder in data
+2. run_rs_new.sh works for running for small genomes comparison and run_try.sh seems working for big genome like maize but needs to test running. 
+3. needs to activate cns_pipeline environment to run
